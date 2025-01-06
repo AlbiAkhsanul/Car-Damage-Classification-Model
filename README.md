@@ -1,12 +1,12 @@
 # 🚗 **Car Damage Detection and Classification**  
 
-Welcome to the  repository for Riset Informatika Repository. This project features two core machine learning models tailored to detect car damage and clasify car damage.  
+Welcome to the repository for the **Car Damage Detection and Classification** project. This repository features two core machine learning models designed to detect and classify car damages effectively.
 
 ---
 
 ## 🤖 **AI-Powered Model for Vehicle Damage Detection and Classification**
 
-Our application integrates two specialized models, each designed to handle a specific aspect of car damage analysis:  
+Our application integrates two specialized models, each developed to handle specific aspects of car damage analysis:
 
 ### 🔍 **Skin Type Model**  
 - **Architecture**: YOLOv8n  
