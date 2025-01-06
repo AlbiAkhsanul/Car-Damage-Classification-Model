@@ -8,13 +8,13 @@ Welcome to the repository for the **Car Damage Detection and Classification** pr
 
 Our application integrates two specialized models, each developed to handle specific aspects of car damage analysis:
 
-### 🔍 **Skin Type Model**  
+### 🔍 **Car Damage Detection Model**  
 - **Architecture**: YOLOv8n  
 - **Why YOLOv8n?**  
    is lightweight, fast, and highly efficient for object detection tasks, making it ideal for detecting damaged regions on vehicles.  
 - **Goal**: EAccurately detect areas of damage on vehicle images and draw bounding boxes around the detected regions.  
 
-### 🗂️ **Skin Conditions Model**  
+### 🗂️ **Car Damage Classification Model**  
 - **Architecture**: MobileNetV2 (Transfer Learning)  
 - **Why MobileNetV2?**  
    MobileNetV2 is optimized for recognizing patterns and features, making it an excellent choice for classifying damage severity. Additionally, its lightweight design ensures efficiency.  
